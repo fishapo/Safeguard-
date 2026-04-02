@@ -1,0 +1,1 @@
+{\n  "name": "Safeguard Mobile Web",\n  "short_name": "Safeguard",\n  "start_url": "./index.html",\n  "display": "standalone",\n  "background_color": "#0b1220",\n  "theme_color": "#0b1220",\n  "icons": []\n}
