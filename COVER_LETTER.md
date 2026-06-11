@@ -1,10 +1,9 @@
-# Cover Letter
+Cover letter
 
-**[Your Name]**  
-[Your Address]  
-[City, State, Zip]  
-[Your Email]  
-[Your Phone Number]  
+Isaac Munyua Nyambura 
+674
+Naivasha
+isaacmumyua01@gmail.com
 
 **Date:** 2026-04-05
 
@@ -29,4 +28,4 @@ Thank you for considering my application. I look forward to the opportunity to d
 
 Sincerely,
 
-[Your Name]  
+Isaac MN
